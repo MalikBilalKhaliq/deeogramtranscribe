@@ -1,0 +1,31 @@
+.country-option {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    background-color: black;
+    background: "#000000";
+    color: white;
+  }
+  .country-option:hover {
+   
+    background-color: #222;
+
+    color: white;
+  }
+  .country-logo {
+    display: flex;
+    flex-direction: row;
+    width: 24px;
+    height: 20px;
+    margin-right: 4px;
+    background-color: black;
+    color: white;
+  }
+  
+  .selected-logo {
+    width: 24px;
+    height: 20px;
+    margin-right: 4px;
+        background-color: black;
+    color: white;
+  }
